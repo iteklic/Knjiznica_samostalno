@@ -4,3 +4,6 @@
 # Sustav je zamišljen da predstavlja ustanovu koja prikuplja, sređuje, čuva i daje na korištenje knjižničnu građu, te pruža raznolike knjižnične usluge korisnicima.
 # Kako se radi o dječjim knjigama, korisnici knjiga bit će najviše populacija ljudi od 10 do 20 godina.
 # Tehnički gledano, sustav nije zamišljen da bude statički, nego dinamički, što upućuje na ranije opisane aktivnosti u pogledu dodavanja, uređivanja i brisanja raznih objekata (knjige, autori, žanrovi).
+# Akteri
+# korisnik (anonimni ili registrirani)
+# knjižničar
